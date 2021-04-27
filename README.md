@@ -1,2 +1,6 @@
 # Airbnb NYC Feature Engineering and Predictions
-Air Bnb Price Prediction
+Introduction:
+AirBnb provides a platform to connect the Hosts and Guests. Where Hosts are the entities or individuals who provide their properties (in terms of rooms,villas,hotels etc) on rent  to the tourists or visitors. Whereas  guests are the individuals or entities who are in search of similar  properties for rent. Within this platform hosts can list their properties with all the options & amenities available and guests can search and book the listed properties based on their requirements.
+Problem Statement:
+AirBnb is a matching platform where anyone can list its property on rent whether it's a spare room, a complete home or a hotel. Hosts need to set the price of their property to maximize their revenue. The price of property depends on various conditions like demand & supply restrictions, reviews of the property given by customers, location & neighbourhood of the property,type of property, bookings on special occasions and other external factors.  Prices can be of two types: fixed and dynamic prices. Fixed price is a static price which is set by the host once. Dynamic price varies over nightly based on various market conditions. Study says that dynamic price generates more revenue than static price. As it is based on various market conditions. Please refer to the below graph that shows the difference in revenue with Static and Dynamic price.
+
